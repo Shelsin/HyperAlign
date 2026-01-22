@@ -1,5 +1,5 @@
 # HyperAlign: Hypernetwork for Efficient Test-Time Alignment of Diffusion Models
-[Xin Xie](https://shelsin.github.io/), [Dong Gong](https://donggong1.github.io/)
+[Xin Xie](https://shelsin.github.io/), [Jiaxian Guo](https://cr-gjx.github.io/), [Dong Gong](https://donggong1.github.io/)
 
 This is the official implementation of HyperAlign, introduced in [HyperAlign: Hypernetwork for Efficient Test-Time Alignment of Diffusion Models](https://arxiv.org/abs/xxxx.xxxxx).
 
